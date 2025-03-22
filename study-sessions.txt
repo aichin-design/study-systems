@@ -1,3 +1,15 @@
+3.23(Sun)
+
+#yesterday
+・inserted text into the UI wireframes
+・organized some UI wireframes
+
+#today
+・inserted text into the UI wireframes
+・made plot for newsletter using reference book
+・finished some UI design(20)
+
+
 3.22(Sat)
 
 #yesterday
